@@ -87,12 +87,3 @@ plt.show()
 
 
 
-'''
-order - 20
-
-file 1 - 11
-file 2 - 
-file 3
-file 4
-file 5
-'''
