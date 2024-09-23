@@ -48,7 +48,7 @@ plt.ylabel('Amplitude')
 plt.title('Smoothed Signal (Savitzky-Golay Filter)')
 
 
-cutoff_frequency = 40.0
+cutoff_frequency = 20.0
 filtered_signal = butterworth_filter(windowed_signal, cutoff=cutoff_frequency, fs=fs)
 
 
